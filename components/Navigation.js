@@ -2,6 +2,7 @@ import { useContext } from "react";
 
 import { authContext } from "@/lib/store/auth-context";
 
+import { ImStatsBars } from "react-icons/im";
 
 function Nav() {
   const { user, loading, logout } = useContext(authContext);
