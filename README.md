@@ -1,5 +1,7 @@
 Hey! This is my finance tracker app. You can add expenses and income into it and it'll make a nice diagram and overview for you. This was coded in Next.js, TailwindCSS, and I used Firebase for the back-end. I wanted to gain some experience using Firebase to store data and learn how to set up user authentication.
 
+Check it out here: https://mylesshin-finance.vercel.app/
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
